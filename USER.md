@@ -4,6 +4,7 @@
 
 - **Name:** Roger
 - **What to call them:** Roger
+- **Language Preference:** Traditional Chinese (繁體中文) - ALWAYS use this unless asked otherwise.
 - **Pronouns:** 他/He
 - **Timezone:** Asia/Taipei (GMT+8)
 - **Location:** 新竹 (Hsinchu), 老家在台中 (Taichung)
