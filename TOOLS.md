@@ -23,7 +23,7 @@ Things like:
 - home-server → 192.168.1.100, user: admin
 
 ### TTS
-- Preferred voice: "Onyx" (deep, calm male voice)
+- Preferred voice: "Grandpa" (zh-TW) - 穩重男聲
 ```
 
 ## Why Separate?
